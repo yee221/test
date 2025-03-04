@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-tigger-0.1.0";
 const contentToCache = [
-    "Build/tigweb.loader.js",
-    "Build/tigweb.framework.js",
-    "Build/tigweb.data",
-    "Build/tigweb.wasm",
+    "Build/web.loader.js",
+    "Build/web.framework.js",
+    "Build/web.data",
+    "Build/web.wasm",
     "TemplateData/style.css"
 
 ];
